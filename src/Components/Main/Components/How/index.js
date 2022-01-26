@@ -20,7 +20,7 @@ export const How = () => {
 					<li>Entre outros...</li>
 				</ul>
 			</div>
-			<img src={svg}/>
+			<img src={svg} alt="Como usar?"/>
 		</Container>
 	);
 }

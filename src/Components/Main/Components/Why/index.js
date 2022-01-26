@@ -5,7 +5,7 @@ import why from "./svg.svg"
 export const Why = () => {
   return (
     <Container>
-			<img src={why} />
+			<img src={why} alt="Porque ?"/>
 			<div className="text">
 				<h2>Porque UI ?</h2>
 				<p>

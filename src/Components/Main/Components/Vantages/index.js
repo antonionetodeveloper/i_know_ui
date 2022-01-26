@@ -4,7 +4,7 @@ import svg from "./svg.svg"
 export const Vantages = () => {
 	return(
 		<Container>
-			<img src={svg}/>
+			<img src={svg} alt="Vantagens"/>
 			<div>
 				<h2>Vantagens !</h2>
 				<p>
